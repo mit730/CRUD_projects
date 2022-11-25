@@ -6,8 +6,8 @@ Used material ui and bootstrap in making this assignment
 Application Is responsive 
 
 Instructions to run the project :-
-click on login button
-login page will appear
-new user first sign up and make account by filling required details
-existing users can login just by clicking login button
+1) click on login button.
+2) login page will appear.
+3) new user first sign up and make account by filling required details.
+4) existing users can login just by clicking login button.
 
