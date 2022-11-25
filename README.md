@@ -12,7 +12,7 @@ Instructions to run the project :-
 4) existing users can login just by clicking login button.
 
 existing user details:-
-username - abc123
-email - abc123@gmail.com
-password - Abcd@123
+1) username - abc123
+2) email - abc123@gmail.com
+3) password - Abcd@123
 
